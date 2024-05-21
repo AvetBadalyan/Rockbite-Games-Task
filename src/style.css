@@ -1,3 +1,4 @@
+/* src/style.css */
 * {
   margin: 0;
   padding: 0;
@@ -60,6 +61,11 @@ header {
 
 #controls label {
   margin-right: 5px;
+  font-weight: bold;
+}
+
+#circleCount {
+  margin-left: 10px;
   font-weight: bold;
 }
 
